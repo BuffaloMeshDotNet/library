@@ -1,0 +1,564 @@
+Amateur radio operator - A person named in an amateur operator/primary license grant in
+the FCC ULS database.   An amateur radio station is a station in an Amateur Radio Service consisting
+of the apparatus necessary for carrying on radio communications. Hams provide a voluntary
+noncommercial communications service to the public, particularly in times of emergency.
+
+There are three classes of licenses, technician, general and amateur extra.  Tests are given by volunteer
+examiners (VE's).  You are given a CSCE upon successful completion of the test.  These are good for
+1 year (365 days).  There are a minimum of 3 VE's required holding a general class or higher license
+to give the technician test.
+
+The FCC (Federal Communications Commission) makes and enforces the rules for the amateur radio
+service.  Two of the primary purposes of the amateur radio service are to increase the number of
+trained radio operators and electronics experts, and improve international goodwill.
+
+Any transmission that disturbs other communications are referred to as harmful interference.
+
+The ITU is the International Communications Union.  It's primary purpose is to assist in the
+management of frequency allocations.  The FCC assigns callsigns in a sequential order.  You can
+select your own callsign, such as your initials through the vanity callsign program.  Amateur radio
+clubs can request their own callsign by applying through a Club Call Sign Administrator.  There are
+special use callsigns in a 1X1 format.  Any licensed amateur may apply to use one on a temporary
+basis.  You can operate in foreign countries when there is a reciprocal operating agreement between
+the governments.
+
+US callsigns start with the letters, K, W, N, AA-AL and have 1 or 2 letters followed by a number then
+1 to 3 letters.  Numbers used are 0-9.  
+
+To be a control operator of an amateur radio station you must be named in the FCC license database or
+be an alien with a reciprocal operating permit.  You may operate from anywhere the service is
+regulated by the FCC or is covered by a reciprocal operating agreement.  You may only contact other
+amateur stations unless authorized by the FCC.
+
+There are occasions when frequencies are assigned on a secondary basis.  What this means is you can
+operate on these frequencies providing you do not cause harmful interference to a primary user.  One
+of the cool things about amateur radio is the ability to speak to hams in other countries.  You can do
+this anytime unless communications are prohibited by either government.
+
+There are some communications that are prohibited by amateur radio.  These are 'communications on
+a regular basis that could be reasonably furnished alternatively through other radio services'.
+
+
+You will receive an amateur station license from the FCC upon successful completion of the radio
+exam.  You do not need a license to operate a citizens band or family radio service radio.
+
+Anyone can become an amateur licensee in the US EXCEPT a representative of a foreign government. 
+There is no minimum age to be a ham.  Amateur radio licenses are granted by the Federal
+Communications Commission (FCC).  You may begin using your license to transmit as sooon as your
+information appears in the FCC ULS database and is normally issued for 10 years.  If your license
+expires you have up to 2 years to renew the license before having to retake the tests.  You may not
+transmit during this grace period. You may begin transmitting again once the renewal information
+shows up in the FCC ULS database.  Your responsibility as a licensee is to ensure your station is
+operated in accordance with FCC rules.
+
+The FCC requires you maintain your current mailing address on file with the ULS database.  If mail is
+returned to the FCC as undeliverable the FCC may suspend or revoke the license.  You must retain this
+address on file so as to receive mail delivery from the FCC by the United States Postal Service.
+
+There are some transmissions that are prohibited on the ham bands.  An amateur station may NEVER
+transmit information for reception by the general public.  Amateurs are prohibited from transmitting
+music except as incidental to an authorized rebroadcast of space shuttle communications.  You cannot
+use codes or ciphers to hide the meaning of a transmitted message EXCEPT when transmitting
+controls to space stations or radio control craft.  You may NEVER transmit false or decptive signals. 
+You must always identify your station except when sent FROM a space station or to control model
+craft.
+
+BROADCASTING is defined as transmissions intended for reception by the general as is prohibited in
+the amateur service.  You may not transmit indecent or obscene language. An FCC licensed amateur
+station may not be compensated (paid) for use of the station EXCEPT in accordance with Part 97
+rules.  You may be compensated if your station sends bulletins or morse code practice when that
+station makes those transmissions for at least 40 hours per week.
+
+Repeater occasionally have telephone lines attached for autopatch use.  You may NOT use the
+autopatch to call your employer requesting directions to a customers office or any other
+communication that could be considered 'business'.  You may discuss the sale of amateur radio
+equipment on the ham bands, provided it is not a recurring event.
+
+There is only one correct way to identify your station.  That is by using your callsign.  It should be
+stated CLEARLY and slowly.  If you transmit without the use of an FCC assigned callsign you have
+created unidentified communications or signals.  You must identify your station every 10 minutes and
+at the end of each communication.  When 2 stations are in communications and the contact ends each
+station is required to transmit its' assigned callsign.
+
+Repeaters may use voice, morse code or a video image conforming to applicable standards to properly
+identify the repeater station.
+
+Occasionally you may want to operate a special event station.  If so you must identify your assigned
+callsign at least once per hour as well as identifying the special event callsign no less than every 10
+minutes.
+
+Sometimes there are special contests or events where you would attach a special indicator to the end of
+your callsign.  These indicators must not conflict with an indicator specified by FCC rules or with a
+prefix assigned to another country.  An indicator assigned by the FCC would be AG (Authorized
+General) or AE (Authorized Extra).  These would be used until your upgrade information appears in
+the FCC ULS database.  Sometimes you may operate at a station whose license class might be less
+than yours.  You would identify the station using his callsign followed by your callsign.  However if
+you are operating only within that stations priveleges you may use his callsgin only.  Every station,
+when operating, must have a control operator.
+
+There may be only ONE amateur operator/primary station license granted to one person.  You may
+want to set up your own repeater station.  You must have at least a technician license to be the control
+operator of a repeater station.  As the control operator of any station YOU are responsible for the
+transmissions of that station.  There must be a control operator whenever a station is transmitting.
+
+There is a place called the control point.  This is the location where the control operator function is
+performed.  There are some stations that are 'automatically' controlled, such as repeaters on top of
+mountains, space stations.  An automatically controlled station does not require the control operator to
+be at the control point.  There are three types of station control permitted and recognized by FCC rules. 
+They are local, remote and automatic control.  Local control is where the control operator is actually at
+the radio, pushing the PTT button.  Automatic control is in use on a repeater when the control op is not
+present and remote control is used when the control op isn't physically at the transmitter but can make
+changes to the transmitter.
+
+The simplest definition of a control operator of an amateur station is An operator designated by the
+licensee to be responsible for the stations transmissions to assure compliance with 
+FCC rules.  If you transmit from another amateurs station both of you are responsible for the proper
+operation of the station.  An amateur operating from a station with lesser privileges still retains his
+higher privileges, but must identify differently.  However if you are operating as the control operator at
+a station with higher privileges you only retain the privilege of your license.
+
+THIRD party traffic is defined as a message sent between two amateur stations for someone else. 
+When you are unlicensed and operating the radio you are operating as a third party.
+
+Club licenses may be issued to a group consisting of at least 4 members.
+
+You may operate onboard aircraft only with approval of the pilot in command and NOT using any of
+the aircrafts equipment.  And remember the FCC may inspect your station at any time upon request.
+
+You always secure your equipment to ensure no unlicensed individual uses it.  A good way to do this is
+to disconnect the power cable and microphone when the equipment is not in use.  Even family
+members cannot use your station, unless they are licensed and able to be control operators.  
+
+
+Operating techniques take some time to learn.  Amateur radio for the most part uses common language
+but there are some subtleties. Using the letters CQ (calling any station) followed by your callsign a
+couple of times is a great way to find any station with which to talk.  ALWAYS listen first to see if the
+frequency is clear.  If you know the station with which you wish to speak use his callsign followed by
+your callsign.  If you are answering a general call (CQ) you should state the other stations call
+followed by your call, preferably phonetically.  You should always use the ITU (International
+Telecommunications Union) phonetic alphabet because the words are internationally recognized
+substitues fro letters.  You should avoid using cutesy phrase or word combinations to identify your
+station.  They are not easily understood by some operators, especially hams from a different country or
+dialect.
+
+If you need to transmit tests of short duration to test antennas or equipment you must identify the
+station.  You can do this in any acceptable way, voice, morse code or digital.  Failure to do so results
+in an 'illegal unidentified transmission'.  The same ID rules apply for test transmissions, you must
+identify every 10 minutes and at the end of the transmission.
+
+Using repeaters is a slightly different procedure.  Rather than calling CQ, just stating your callsign is
+adequate.  
+
+We have the ability to use many different frequencies and modes of operation.  If everybody did their
+own thing chaos would rule.  Over the years, band plans have been designed by the amateur
+community and honored among many different countries.  A band plan is a voluntary guideline,
+beyond the divisions of the FCC, for using different operating modes within an amateur band.  They
+are voluntary guidelines for the efficient use of the radio spectrum.  
+
+Even repeater frequencies are voluntarily coordinated, by amateurs for amateurs.  Each part of the
+country has a recognized frequency coordinating body and they are in charge of the repeater band plan
+in your area.  Their primary purpose is to reduce interference and promote proper use of spectrum.  If a
+repeater station inadvertently retransmits transmissions in violation of FCC rules the transmitting
+station is responsible, not the repeater station.  One way to reduce interference, not just on repeaters
+but everywhere, is to use the minimum power necessary to carry out the desired communication.  Not
+only does this make sense, but it's the rules!
+
+As a technician licensee you will see mode restricted subbands on the 6, 2 ans 1 1/4 meter bands.  On
+6 meters you may transmit CW (more code) only between 50 and 50.1 MHz.  On 2 meters, you may
+transmit CW only between 144 and 144.1 MHz.
+
+If there are two or more stations talking and you need to jump in transmit your callsign between breaks
+and wait for acknowledgment.  Remember always before operating on a repeater to monitor before
+transmitting and keep the transmissions short, identify legally and use the minimum amount of
+transmitter power necessary.  Remember that no one has exclusive rights to a frequency.  If two
+stations wish to use the same frequency, common sense and courtesy should prevail.  Indecent and
+obscene language is prohibited because it is offensive to some, because children may intercept
+amateur communications with readily available receiving equipment and because such language is
+specifically prohibited by FCC rules.  Amateur operators should always show the utmost courtesy
+when on the air.  The use of ethnic or racial slurs reflects a poor image to the public and is offensive to
+some people.  By the way there is no 'official' list of prohibited indecent or obscene words.
+
+One of the greatest assets of amateur radio is a good elmer, a ham who helps the newcomer and oldster
+alike.  If you hear a newly licensed operator having some on the air trouble, you should contact them
+and offer to help with the problem.
+
+There are times when the rules and regulations don't cover a situation.  When this happens good
+engineering and amateur practices become the general operating standard.
+
+There are times when your equipment may cause interference.  If you are advised that your station is
+interfering with adjacent operations you should check to see if possibly your equipment is generating
+spurious or off frequency emissions.  If your neighbor is complaining about you interfering with TV
+reception, determine the problem.  If the TV receiver is front end overloading it is the neighbors
+responsibility to fix his TV.  Front end overload is caused by strong signals from a nearby source.
+However good amateur practice dictates lending a hand since most consumers don't understand how
+radio works.  Telephone interference is commonplace also.  Most telephones are not equipped with
+adequate interference protection when manufactured.
+
+If you interfere with another stations communications you should properly identify your station and
+move to a different frequency.  You may NEVER intentionally interfere with another stations
+communications.
+
+There are several ways to reduce interference.  One of the easiest and surest is to use a dummy load
+when testing your transmitter.  Another source of interference quite often comes from cable service.  A
+break in a cable TV line can allow your signals in to create TV interference when you are transmitting
+or you may experience interference from cable leakage.
+
+Remember even when operating under emergency communications NO ONE has exclusive rights to a
+frequency unless mandated by the FCC and FCC rules always apply.  There are two groups that
+provide emergency communications, RACES (Radio Amateur Civilian Emergency Services) and
+ARES (Amateur Radio Emergency Service).  Both organizations provide communications during
+emergencies.
+
+DEFINITIONS
+
+Electrical power is measured in watts.  The flow of electrons in a circuit is called current and is
+measured in amperes. Current is measured by an instrument called an ammeter.  Current that flows
+only in one direction is called direct current.  Current that changes directions routinely is called
+alternating current.
+
+Frequency is how often something happens. It is measured in Hertz (cycles per second).
+
+Resistance is measured in ohms and is defined as the opposition to current flow in ordinary conductors
+such as wires.
+
+Automobile batteries start on direct current.  The automobile battery normally supplies 12 volts.  EMF
+(Electromotive force) is measured by a voltmeter. Electrical circuits need conductors to work.  But
+they also need to be insulated from surrounding conductors.  A good electrical conductor is copper
+while a good insulator is glass.
+
+The distance a radio wave travels during one complete cycle is called wavelength.  Radio waves vary
+in frequency and are measured in Hertz.  Radio waves are generally considered those waves that
+oscillate more than 20,000 times per second.  Remember radio waves travel through space at the speed
+of light.
+
+One of the hardest things to remember is that the shorter the wavelength is the higher is the frequency. 
+The formula for converting frequency to wavelength in meters in wavelength in meters equals 300
+divided by the frequency in megahertz. Radio waves are designated by their meter band, so this
+formula is one you definitely want to remember.
+
+Sound waves are very similar in their behavior as radio waves. Their frequency range however is 300
+to 3000 Hertz.
+
+Remember these:
+
+2 meter band in the US   144-148 MHz
+6 meter band in the US    50-54 MHz
+70 centimeter band in the US 420-450 MHz
+An amateur radio consists of two primary components, a receiver and a transmitter.  The receiver is
+used to convert radio waves into the sound waves we hear.  The transmitter is used to convert sounds
+from our voice into radio signals.  If these two components are in one box it is called a transceiver. 
+All radios utilize energy differently than is supplied from the wall.  The device used to convert the
+alternating current from the wall outlet into low voltage direct current is the power supply.  Other
+sources of low voltage direct current are batteries.  Currently the longest lasting small batteries are
+lithium ion.  One of the most common however, primarily due to cost, is the nickel-cadmium battery. 
+Nominal voltage for a fully charged Ni-Cad is 1.2 volts.  You will also run across carbon-zinc
+batteries.. These are designed for one use and are not designed to be recharged.
+
+Rechargeable batteries are great to have but need to be maintained.  Inspect batteries for physical
+damage and replace if necessary.  They should be stored in a cool, dry location.  A refrigerator works
+well for this and they must be given a maintenance recharge every 6 months or so.  For a battery to
+maintain a long life current should be drawn from the call at the slowest rate needed.
+
+Ohm's law is the most commonly used formula in electronics.  It states that current (I) equals voltage
+(E) divided by resistance ( R)    I=E/R.  You can determine resistance and voltage by moving the parts
+around as appropriate.  Resistance equals Voltage divided by current R=E/I and voltage equals current
+multiplied by resistance.  E=IR       (Power (P)  = Voltage (E) multiplied by current (I).
+
+For instance if the current in a circuit is 3 amperes through an unknown resistor at 90V the resistance
+would be 90V (E) divided by 3 amperes current (I) equals 30 ohms  .
+
+Milli = 1/1000
+Mega = 1 million
+Giga = 1 billion                   
+Micro = 1/1,000,000
+Kilo= 1000
+
+
+A microphone connects to your transmitter and is used to convert the sound waves of your voice to
+electrical impulses that can be transmitted on the air.  The radio speaker is connected to your receiver
+and is used to convert the electrical impulses received by the receiver to audio you can hear.  If the
+speaker and microphone are too close together they can create audio feedback.  A replacement for the
+radio speaker is a good set of headphones.  These help you hear in noisy areas.
+
+There are many extra pieces of equipment necessary to make your station safer and better.  One of
+those necessary items is a good regulated power supply.  This helps protect your equipment from
+voltage fluctuations.  A good high pass,  low pass, or notch filter is used at the transmitter to reduce
+spurious emissions.  Notch filters are quite often used on TV receivers to prevent RF overload (the
+TV's inability to reject powerful nearby signals).  A terminal node controller (TNC) can convert your
+station into a digital station, capable of sending an receiver digital signals such as SSTV (Slow scan
+television) RTTY (radioteletype) PSK (phase shift keying) and Packet.  Using digital communications,
+such as packet, does not require a microphone.  Today's computers provide sound card inputs and
+outputs and can be connected to your radio to produce data (digital) transmissions.
+                    
+RIT - Receiver Incremental Tuning
+
+Repeaters - Repeaters are devices that can extend the range of mobile and/or low power stations.  They
+occasionally use a 'courtesy' tone so others know when your transmission is complete.  The most
+important thing to know before attempting to use a repeater is the input and output frequencies of the
+repeater.  You should always pause between transmissions to listen for others that may need to break
+in or wish to join the conversation.  The input frequency of a repeater is the frequency upon which you
+transmit, the output frequency of the repeater is where you listen.
+
+When you listen and transmit on the same frequency it is referred to as operating simplex.  You should
+operate simplex when possible to avoid tying up a repeater.  You can determine if simplex operation is
+practical by listening to the repeater input.  If you can hear the other station simplex operation might
+be possible.  Linked repeater systems tie many repeaters over large areas together.  They can provide
+coverage for thousands of square miles and sometimes many different states.  Repeaters are also
+required to be coordinated so as to minimize interference between repeater systems.  Also as a repeater
+owner you may limit access to your repeater.  A restricted repeater is referred to as a closed repeater.
+
+Fundamental overload is interference caused by a strong nearby source. These can cause telephones to
+act as radio receivers.  One of the ways to reduce or eliminate interference is the use of an RF filter on
+the telephone.  Televisions occasionally cannot reject strong nearby signals.  If someone tells you your
+signals are interfering with their TV you should first check to ensure your station is operating properly
+and it is not interfering with your television, making sure your station meets the standard of good
+amateur practice.  There are several ways to correct a radio frequency interference problem.  Among
+them are the use of snap on ferrite chokes, low and high pass filters, and notch and band pass filters.
+
+Part 15 devices, sometimes called incidental radiators, cannot cause interference.  If you have
+interference from a Part 15 device, say from your neighbors home, you should work with your
+neighbor to identify the device, politely inform your neighbor of the rules that require him to stop
+using the device if it causes interference and check to make certain your station meets the standards of
+good amateur practice.  Other forms of interference on your signal could be pick up from your cars
+electrical system, RF energy getting into the microphone circuit of your transmitter, being slightly off
+frequency, being in a bad location or something as simple as the batteries in your HT being low.
+
+Digital communications are sometimes better than analog signals because of the error correction
+ability of digital modes.  There are even amateur stations that can connect you to the internet.  These
+are called gateway stations.  One of the programs used to connect stations via the internet is called
+echolink.  One of the cool things about echolink is the possibility of DX stations such as Russian
+stations showing up on your local 2 meter repeater, an internet linked DX station.  Another internet
+protocol is called IRLP (Internet Radio Linking Project).  This is a way to link two or more stations
+together via the internet.  Both IRLP and Echolink are VOIP (Voice over Internet) protocols.  Any
+licensed amateur may operate via echolink.  Repeater directories and the internet are great places to
+find actives nodes using VOIP.  
+
+Voice transmission by radio is referred to as phone transmission.   There are many modes.  The most
+common is SSB (single side band), closely followed by FM (frequency modulation) and lastly by AM
+(amplitude modulation).  FM is most commonly used on UHF/VHF frequencies and repeaters.  For
+weak signal voice work on VHF/UHF SSB is the most common mode.  Of the most common forms of
+modulation (CW, FM voice and SSB), CW has the narrowest bandwidth.  SSB has one advantage over
+FM.  The SSB signal uses less bandwidth, approximately 2-3 kHz.  An FM signal on the other hand has
+a bandwidth between 5 and 15 kHz.  TV signals, referred to as FSTV (fast scan TV) have a bandwidth
+of 6 MHZ.
+
+Over the years a practice has emerged to use certain side bands on certain frequencies.  On frequencies
+of 14 MHz and above USB or upper side band is used.  For frequencies below 14 MHz LSB or lower
+side band is used.
+
+Digital communications modes - packet, RTTY (radioteletype), AMTOR, Clover, PSK (phase shift
+keying).  All use digital protocols to communicate a message.  A rapidly growing mode of
+communications is APRS (Automatic Position Reporting System).  This interfaces your radio
+equipment with a GPS (Global Positioning System Receiver).  There are amateur gateways that get
+your information to the internet and websites such as findu.com to see where everyone is.
+
+Another acronym you will likely encounter is NTSC (standard fast scan color television signal).  This
+is what you see at home on your regular television.
+
+PSK31 is a fairly new digital protocol.  It is a low rate data transmission that works well in noisy
+conditions.  The first digital form of communication and still the only one able to be copied by ear is
+CW (morse code).  Sending and receiver morse code should be done at a speed no faster than you can
+reliably receive.  Learning morse, even though no longer required, is a great idea.  It connects you with
+the history of radio and lets you recognize repeater ID's, when they identify in morse.
+
+One of the things that has crept into our amateur language is Q codes.  Originally designed for use on
+CW as abbreviations for common questions or statements, some have become part of our hamspeak. 
+One neat thing about Q signals on CW.... no matter what language each operator spoke, the Q signals
+got the message through easily, almost like a universal translator from Star Trek!  Some common Q
+signals are QRM (interference from other stations), QSY (changing frequency), QSL (message
+received), QRZ (who's calling?), QTH (location), QRN (natural or man made noise).  Adding a ? To
+the Q signals changes the meaning from a statement to a question.  
+
+One things hams are called upon to do from time to time is to provide emergency or special event
+communications.  Many things are needed to successfully complete these ventures.  If you're using a
+hand held radio, having a spare battery pack or two is a great idea.  Also using a portable antenna
+increases your HT's efficiency over the rubber duck antenna that is standard.  Keeping an external
+antenna, several feet of connecting cable (feedline), cable and clips for connection to an external
+battery and a listing of repeater and net frequencies in your area are very useful additions to your TO
+GO pack.  Also, if your operations will be in a noisy environment, a combination headset/microphone
+would be a good addition.
+
+One of the games hams play is called foxhunting (hidden transmitter hunting) or Dfing (direction
+finding).  The techniques used here are the same when trying to locate noise interference or even
+intentional jamming.  A directional antenna is a most useful device for these ventures.  Another
+popular activity is called contesting.  These are organized events that put many stations as possible on
+during a specified period of time.  Contests can help you develop that HF ear, the ability to pick
+signals out of the noise, help improve the efficiency of your station by exposing strong and weak
+points in your antenna system, and meet some of the best operators in amateur radio.  Some of the
+contest exchanges require you to send and receive grid squares.  A grid square is a letter-number
+designator assigned to a geographic location.  Another fun and informative operation is a special event
+station.  These are temporary stations that operate in conjunction with an activity of special
+significance, such as the Ky Derby, Dayton Hanvention etc.  Usually the sponsoring group offers a
+special QSL card or certificate for the contacts.
+
+Another fun aspect of amateur radio is the use of RC (radio control) of aircraft, boats, cars etc.  A
+maximum of 25 watts is allowable to transmit telecommand controls.  No on air ID is required,
+however a label indicating the licensees callsign and address must be affixed to the transmitter.
+
+Did you know that ham radio operators build and launch satellites.  They're whizzing overhead as we
+speak and hams are communicating through them.  Any ham can operate on any satellite providing
+your license class allows you to operate on the UPlink frequency.  Satellites are sensitive to power use
+so you should use the minimum amount of power necessary to complete the contact.  Not only is that
+good for the satellite, it's also one of our rules.  And there are hams from other countries that you can
+talk with through satellites.  There are even hams on the space shuttle and any technician class
+operator or higher may talk to the shuttle astronauts.  Satellite also transmit beacons.  These contain
+information about the satellite.  The easiest way to determine when you can access an amateur satellite
+is to use a satellite tracking program.  One of the unusual things about communicating through
+satellites is doppler shift. Doppler is a change in frequency caused by motion through space.  AMSAT
+is the name of the group that coordinates the building and/or launch of the majority of amateur
+satellites.  Satellites are not in use in all parts of the amateur spectrum.  They are limited to subbands
+(a portion of the band where satellite operation is permitted) For instance in the 70cm band the
+subband is 435-438 MHz.  One of the fastest satellites whizzing around are called LEO's (low earth
+orbit)
+
+While we get to play on the radio most of the time, a big reason we exist is to provide emergency and
+public service communications.  The FCC will occasionally issue a temporary state of
+communications emergency declaration. This is the legal requirement to restrict a freuency for
+emergency use only.   These contain any special conditions and rules to be observed during the
+emergency.  As an amateur operator you should avoid these special frequencies until the emergency is
+over, unless of course you are participating in the emergency operation. You can even contact stations
+that are not amateur operators during an emergency or when specially authorized by the FCC.  You
+may even be talking to someone and an emergency break into your conversation.  You should
+immediately stop your conversation and take the emergency call. Remember though that no one has
+exclusive right to any frequency unless the FCC says so.  In a long term emergency, like a hurricane or
+tornado, you can even use 'tactical' callsigns.  You might be Hospital One or Rescue Three.  This is
+more efficient and helps coordinate public service.  MAYDAY repeated 3 times is the correct way to
+transmit for an emergency.  If you hear an emergency call you should assume it is real and act
+accordingly.  Making a false emergency call is no laughing matter either.  You could have your license
+revoked, fined a large sum of money or be sent to prison and possibly all three.  Remember,
+EMERGENCY communications always have priority in the amateur radio service and you may only
+transmit SOS or MAYDAY when there is an immediate threat to human life or property.
+
+Hams are called many times to serve others in emergencies.  It's a main reason we exist as a service. 
+You should be 'ready' to go if needed.  You should check at least twice a year to make sure you have
+all of your emergency response gear and you know where it is.  You should have a way to run your
+gear in case of a power failure in your area and you should participate in drills that test your ability to
+set up and operate in the field.  Remember also no idle chatter on the emergnecy frequency.  This may
+interfere with important traffic.
+
+There are two main amateur organizations that operate during emergency.  The first is RACES (Radio
+Amateur Civil Emergency Service).  There are restricted to serving local, state or federal emergency
+management agencies.  To operate with a RACES unit you must register with the responsible civil
+defense organization. The other is ARES (Amateur Radio Emergency Service) and this group supports
+agencies such as Red Cross, Salvation Army and the National Weather Service.  
+
+Being prepared sometimes means being creative.  You might have to use the battery in your truck, a
+bicycle generator or portable solar panel for power.  Lastly remember you can operate on any
+frequency, in any service in a genuine emergency.  During emergencies you will get all kinds of
+requests.  For instance if a reporter asks you to use your equipment to make a news broadcast you
+should politely advise him that FCC rules prohibit such use.  Some equipment can be modified to
+operate places not originally designed.  These devices are not type accepted by the FCC and cannot be
+legally used on other frequencies.  However, in a genuine emergency you may use any means at your
+disposal to call for help on any frequency.
+
+Organized groups of amateurs on a particular frequency is referred to as a net.  Emergency traffic
+always has priority on a net.  Once you have checked into the net you should not transmit again unless
+called by net control or you have emergency traffic.  You should NEVER transmit personal
+information concerning victims over the air.  When passing emergency traffic you should always
+include the name of the person originating the message.  If you need to 'hide' information from casual
+listenners you can pass the traffic using non-voice modes such as packet or morse code.  The net
+control station should have a strong and clear signal.  If someone breaks into the net with emergency
+traffic the net control station should stop all net activity until the emergency is handled.  If you happen
+to be 'first on the scene' of a large scale emergency and no net control station is available you should
+immediately open the emergency frequency and begin taking checkins. until a stronger station can act
+as net control.   Messages are formatted to facilitate movement and reduce errors.  The preamble is the
+information needed to track the message through the amateur traffic handling system.  The check is a
+count of the number of words in the message.  It is highly recommended that the text of an emergency
+message never exceed 25 words.
+
+Of course we can't communicate without antennas.  One of the antennas hams use is called a beam
+antenna.  It concentrates signals in one direction. Other examples of directional antennas are the dish,
+quad and yagi.  Another very common antenna is a vertical.  It is a single element mounted
+perpendicular to the earths surface.  A simple dipole antenna is an example of a horizontal antenna. 
+And of course the larger the antenna the better.  The 'rubber duck' antenna so common on HT's does
+not transmit or receive as effectively as a full sized antenna.  The duck is also 10 to 20 times weaker
+when used inside a car as when standing outside.  A good antenna to use on your car is a magnetic
+mount antenna.  It can be easily removed and installed.  A 1/4 wave antenna for 146 MHz is only 19
+inches long.  A 6 meter dipole is approximately 112 inches long.
+
+Dipoles are probably the most common antenna for HF.  As the frequency in use increases the size of
+the dipole shortens.  Another vertical antenna in use is the 5/8 wave vertical.  It has a small advantage
+over the 1/4 wave by concentrating the radiation pattern at a lower angle.  One very important station
+feature is the dummy load.  It reduces on the air interference when conducting tests or tuning up older
+tube type gear.
+
+The earth helps our signals propagate.  VHF/UHF signals are not normally heard over long distances
+because the ionosphere usually does not reflect these signals.  However occasionally you will hear
+some sporadic E reflection.  We also deal with a thing called the radio horizon.  This is the point that
+the signals between two points are blocked by the curvature of the earth.  VHF/UHF signals are in
+constant use around us.  Occasionally your receiver may make weird noises, such as burst of tones or
+fragments of different conversations.  These are caused by strong signals overloading your receiver. 
+Also if you're talking with someone on your HT and your signals were clear but now are weak or
+distorted, you may be a victim of multipath fading.  Moving a few feet usually will clear up the issue. 
+And believe it or not UHF works better in an urban environment than do the longer wavelength VHF
+signals.  The shorter UHF signals more easily penetrate urban areas and buildings.
+
+HT's use vertical antennas and so do repeaters.  If you're trying to reach that distant repeater trying to
+keep your HT antenna as vertical as possible will help you make the trip.  Polarity of antennas is very
+important at UHF/VHF.  If antennas are of opposite polarity on a line of sight communication, signal
+strengths could be 100 times weaker.  Another trick when your signals are blocked by buildings or
+terrain is to use a directional antenna, like a yagi or dish and find a place where you can reflect a signal
+into the repeater.  Quite often you'll hear a rapid fluttering sound on mobile signals.  We refer to this
+as picket fencing.  One last note, VHF/UHF waves travel about 1/3 further than the earths curvature
+should allow.  For some reason the earths atmosphere seems less curved to radio waves than to light.
+
+You'll hear many terms bantered around in amateur radio.  One of the most misunderstood is SWR
+(standing wave ratio).  This is simply a measure of how well a load is matched to a transmitter.  A 1 to
+1 ratio indicates a perfect match.  If you notice erratic changes in the SWR readings it may indicate a
+loose connection in your antenna or feedline.  Solid state gear is much more susceptible to SWR issues
+than the good old tube gear of the day.  The protection circuits in solid state gear usually engage at a
+readiong of 2 to 1 or higher.  A directional wattmeter (a meter that shows forward and reflected
+power) is a good alternative to use if an SWR meter is not available. Remember though all that energy
+is used somewhere.  The energy reflected is wasted as heat in the feedline.  Coaxial cable is the most
+common feedline in use today because it requires few special installation considerations and is easy to
+use.  It is important to maintain a match between cable and load to allow the efficient transfer of
+power and to reduce losses.  Also protect your coax from water.  The leading cause of coaxial cable
+failure is moisture contamination. Most coax in use in the amateur service is 50 ohms and has a black
+outer covering.  This protects the coax from ultraviolet light damage.  Sun and water can cause
+significant losses in coax over the years.  
+
+We are dealing with electricity and as such need to be aware of the many safegaurds necessary to stay
+healthy and alive.  The most commonly accepted value for the lowest voltage that can cause a
+dangerous electric shock is only 30 volts.  The lowest amount of current running through the human
+body that can cause death is only 100 milliamps.
+
+So hooking things up correctly and the same everytime will help keep electricity where it belongs.  On
+a three wire electrical plug the green wire is connected to ground.  Remember green fro grass.  We use
+fuses in circuits to interrupt power in case of an overload, to protect equipment and to prevent things
+such as fires.  If you were to replace a 5 amp fuse with a 20 amp the resulting excess current could
+cause enough heat to catch fire.  A great way to prevent electrical shock at your station is to use 3 ire
+cords and plus for all AC powered equipment, connect all AC powered station equipment to a
+common ground and use a ground fault interrupter at each electrical circuit.  A last safeguard is an
+emergency disconnect switch.  The most important thing about this switch is that everyone needs to
+know where it is and how to use it.
+
+One of the leading causes of equipment damage and fire is lightning.  Precautions that can be taken are
+to disconnect antenna cables from the station and move them away from equipment, unplug all power
+cords from AC outlets and stop using your radio equipment and move to another room until the storm
+passes. The most important reason for a lightning protection system is to prevent fire.
+
+One of the backup means to power your station is a 12 V battery.  But how do I charge my battery if
+the power is out.  One way is to connect your battery to your car battery with jumper cables and run
+your car engine.  Special considerations are needed though when dealing with batteries in the house. 
+They contain dangerous acids that can spill and cause injury, short circuits can damage wiring and
+possibly cause a fire, and explosive gases can form if not properly vented.  You also need to consider
+the proper discharge rate of the battery.  If the battery is discharged too quickly it can overheat and
+give off a dangerous gas, or possibly explode.
+
+Power supplies are to be respected as well.  They can hold a large charge for quite a while after being
+unplugged.  You can receive quite the electric shock from the stored charge in large capacitors.
+
+Antennas need to be high and clear to work their best.  So as hams many of us put up towers.  You
+should always wear a hardhat when around the base of the tower, just in case something falls from the
+worker above.  You should always wear safety goggles and a safety belt when climbing a tower.  Be
+sure these are in place and secured before you climb.  You should also arrange for a helper or
+observer, inspect the tower for damage or loose hardware and make sure there are no electrical storms
+nearby.  You should make certain your tower remains clear of any overhear power lines and if you
+have an airport nearby, be certain that your tower height meets the requirements for proximity to an
+airport.  When your antennas are installed they should be where no one can accidentally come into
+contact with it.  Guy wires should be installed per the tower manufacturers instructions.  If you have
+power lines in the area the tower should be constructed so that if it fell it would come no closer than
+10 feet from the power line.  Your tower should be adequately grounded.  A suitable ground is
+considered one 8 foot ground rod for each leg, bonded to the tower and to each other.  You should
+never climb a crank up tower unless it is fully lowered.  And use stainless steel parts.  They are less
+likely to corrode than other common metals.
