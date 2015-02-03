@@ -1,4 +1,6 @@
 library
 =======
 
-The code for the library app, which at this point is just a collection of epubs, mobis, and pdf's; browseable in a basic web browser directory browse.  More coming soon :)
+This is a collection of eBooks in various formats that are license free for use
+and downloading.  If there's a book you'd like to see, contact the node admin
+and they'll try to get it added.  Enjoy!
