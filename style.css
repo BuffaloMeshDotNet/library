@@ -1,0 +1,14 @@
+.body
+{
+	width:99%;
+	height:99%;
+}
+
+.col
+{
+	overflow-y:scroll;
+	height:80%;
+	width: 24%;/*the outermost div is always a % of the page
+					width, even while resizing*/
+	display:inline-block;
+}

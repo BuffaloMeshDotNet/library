@@ -1,77 +1,83 @@
 <html>
 	<head>
-		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" href="style.css">
 	</head>
+	<title>eBook Library</title>
 	<body>
-
-	<details>
-		<summary>ePub</summary>
-		<?php
-			if ($handle = opendir('epub/')) {
-				while (false !== ($file = readdir($handle)))
-				{
-					if ($file != "." && $file != "..")
+	<div id="main" class="body">
+	<h1>eBook Library</h1><p/>
+	If there are any titles you'd like, please let the node administrator know, and we'll try our best to locate it, and get it up here for you.</p>
+	<div id="ePub" class="col">
+		<h2>ePub</h2><br/>
+		Most devices can read this.<br/>
+			<?php
+				if ($handle = opendir('epub/')) {
+					while (false !== ($file = readdir($handle)))
 					{
-						$thelist .= '<a href="epub/'.$file.'">'.$file.'</a></br>';
-          		}
-       		}
-			closedir($handle);
-			}       
-		?>
-		<p><?=$thelist?></p>	
-	</details>
+						if ($file != "." && $file != "..")
+						{
+							$thelist1 .= '<a href="epub/'.$file.'">'.$file.'</a></p>';
+   	       		}
+   	    		}
+				closedir($handle);
+				}       
+				print $thelist1
+			?>	
+	</div>
 
-	<details>
-		<summary>mobi</summary>
-		<?php
-			if ($handle = opendir('mobi/')) {
-				while (false !== ($file = readdir($handle)))
-				{
-					if ($file != "." && $file != "..")
+	<div id="mobi" class="col">
+		<h2>mobi Format</h2><br/>
+		Amazon devices (aka Kindles)<br/>
+			<?php
+				if ($handle = opendir('mobi/')) {
+					while (false !== ($file = readdir($handle)))
 					{
-						$thelist .= '<a href="mobi/'.$file.'">'.$file.'</a></br>';
-          		}
-       		}
-			closedir($handle);
-			}       
-		?>
-		<p><?=$thelist?></p>	
-	</details>
+						if ($file != "." && $file != "..")
+						{
+							$thelist2 .= '<a href="mobi/'.$file.'">'.$file.'</a></p>';
+  	        		}
+  	     		}
+				closedir($handle);
+				}       
+				print $thelist2;
+			?>	
+	</div>
 
-	<details>
-		<summary>PDF</summary>
-		<?php
-			if ($handle = opendir('pdf/')) {
-				while (false !== ($file = readdir($handle)))
-				{
-					if ($file != "." && $file != "..")
+	<div id="pdf" class="col">
+			<h2>PDF Format</h2><br/>
+			Laptops and Desktops<br/>
+			<?php
+				if ($handle = opendir('pdf/')) {
+					while (false !== ($file = readdir($handle)))
 					{
-						$thelist .= '<a href="pdf/'.$file.'">'.$file.'</a></br>';
-          		}
-       		}
-			closedir($handle);
-			}       
-		?>
-		<p><?=$thelist?></p>	
-	</details>
+						if ($file != "." && $file != "..")
+						{
+							$thelist3 .= '<a href="pdf/'.$file.'">'.$file.'</a></p>';
+  	        		}
+  	     		}
+				closedir($handle);
+				}       
+				print $thelist3;
+			?>	
+	</div>
 
-	<details>
-		<summary>Misc Formats</summary>
-		<?php
-			if ($handle = opendir('misc/')) {
-				while (false !== ($file = readdir($handle)))
-				{
-					if ($file != "." && $file != "..")
+	<div id="misc" class="col">
+			<h2>Misc Formats</h2><br/>
+			Various formats (Text files, etc)
+			<?php
+				if ($handle = opendir('misc/')) {
+					while (false !== ($file = readdir($handle)))
 					{
-						$thelist .= '<a href="misc/'.$file.'">'.$file.'</a></br>';
-          		}
-       		}
-			closedir($handle);
-			}       
-		?>
-		<p><?=$thelist?></p>	
-	</details>
-
+						if ($file != "." && $file != "..")
+						{
+							$thelist4 .= '<a href="misc/'.$file.'">'.$file.'</a></p>';
+  	        		}
+  	     		}
+				closedir($handle);
+				}       
+				print $thelist4
+			?>	
+	</div>
+	</div>
 	</body>
 </html>
-
