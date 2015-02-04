@@ -6,6 +6,7 @@
 
 .col
 {
+	float:left;
 	overflow-y:scroll;
 	height:80%;
 	width: 24%;/*the outermost div is always a % of the page
